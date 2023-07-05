@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="https://s11.gifyu.com/images/SWS1O.gif" alt="Animated GIF" />
-</p>
-
-<h1 align="center">Hi 👋 I'm Erin Brenes</h1>
+<h1 align="center">Hi 👋🏼 I'm Erin Brenes</h1>
 <h3 align="center">A passionate backend developer from San Francisco</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/0OP4ood.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif">
 
 - 🛠️ I’m currently working on **P2P-Payment-Capstone**
 
