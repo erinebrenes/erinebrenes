@@ -1,8 +1,5 @@
 <h1 align="center" style="font-size: 72px; font-weight: bold; margin-bottom: 0;">Greetings 🖖🏼 I'm Erin</h1>
-
 <p align="center">A passionate backend developer from San Francisco, dedicated to making a positive impact ✊🏼🌈♻️✨</p>
-
-https://github.com/erinebrenes/erinebrenes/assets/126537392/9dc8d1de-ba3b-4152-b19f-0b7ce49c7965
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif">
 
@@ -29,3 +26,14 @@ https://github.com/erinebrenes/erinebrenes/assets/126537392/9dc8d1de-ba3b-4152-b
 <h2 align="left">Languages and Tools:</h2>
 
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erinebrenes&theme=gruvbox&_icons=true)
+
+<br>
+<p><strong>Now-Playing 🎧</strong></p>
+
+
+https://github.com/erinebrenes/erinebrenes/assets/126537392/027c2744-8f8b-40db-997f-2f71f5609070
+
+
