@@ -5,8 +5,8 @@
 
 <ul>
   <li>👩🏻‍💻 My pronouns are <strong>she/her</strong></li>
-  <li>🛠️ I’m currently working on <strong>P2P-Payment-Capstone</strong></li>
-  <li>🌱 I’m currently learning <strong>Swift</strong></li>
+  <li>🛠️ I’m currently working on <strong>Survey Creator & Manager</strong></li>
+  <li>🌱 I’m currently learning <strong>JavaScript</strong></li>
   <li>💬 Ask me about <strong>Java, PostgreSQL, and Spring</strong></li>
   <li>📫 How to reach me <a href="mailto:erinebrenes@gmail.com"><strong>Gmail</strong></a></li>
   <li>⚡ Fun fact <strong>I'm SSI certified 🤿</strong></li>
