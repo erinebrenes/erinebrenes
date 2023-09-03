@@ -32,11 +32,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erinebrenes&theme=gruvbox&_icons=true)
 
 <br>
-<p><strong>Now-Playing 🎧</strong></p>
-
-
-https://github.com/erinebrenes/erinebrenes/assets/126537392/027c2744-8f8b-40db-997f-2f71f5609070
-
 
 <br>
 <p><a href="https://www.buymeacoffee.com/erinebrenes"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/erinebrenes" /></a></p><br><br>
